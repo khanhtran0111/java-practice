@@ -2,9 +2,7 @@ import java.util.*;
 import java.io.*;
 import java.math.BigInteger;
 
-
-
-class Solution{
+class datatype{
     public static void main(String []argh)
     {
 
